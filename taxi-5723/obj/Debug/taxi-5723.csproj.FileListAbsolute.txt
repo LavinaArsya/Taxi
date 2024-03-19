@@ -1,0 +1,7 @@
+D:\VisualStudio\taxi-5723\taxi-5723\bin\Debug\taxi-5723.exe.config
+D:\VisualStudio\taxi-5723\taxi-5723\bin\Debug\taxi-5723.exe
+D:\VisualStudio\taxi-5723\taxi-5723\bin\Debug\taxi-5723.pdb
+D:\VisualStudio\taxi-5723\taxi-5723\obj\Debug\taxi-5723.csproj.AssemblyReference.cache
+D:\VisualStudio\taxi-5723\taxi-5723\obj\Debug\taxi-5723.csproj.CoreCompileInputs.cache
+D:\VisualStudio\taxi-5723\taxi-5723\obj\Debug\taxi-5723.exe
+D:\VisualStudio\taxi-5723\taxi-5723\obj\Debug\taxi-5723.pdb
